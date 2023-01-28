@@ -1,6 +1,7 @@
 import React from "react";
 
 function Header(props) {
+  console.log('hi')
       return (
         <h1>
           {/* uncomment the line below to pass the test */}

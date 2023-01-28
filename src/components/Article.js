@@ -6,6 +6,6 @@ function Article() {
       {/* please pass this test */}
     </div>
   );
-}
+}                         
 
 export default Article;
